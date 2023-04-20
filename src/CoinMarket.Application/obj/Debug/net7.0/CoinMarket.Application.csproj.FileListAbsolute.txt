@@ -1,0 +1,15 @@
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/bin/Debug/net7.0/CoinMarket.Application.deps.json
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/bin/Debug/net7.0/CoinMarket.Application.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/bin/Debug/net7.0/CoinMarket.Application.pdb
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/bin/Debug/net7.0/CoinMarket.Domain.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/bin/Debug/net7.0/CoinMarket.Domain.pdb
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/CoinMarket.Application.csproj.AssemblyReference.cache
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/CoinMarket.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/CoinMarket.Application.AssemblyInfoInputs.cache
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/CoinMarket.Application.AssemblyInfo.cs
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/CoinMarket.Application.csproj.CoreCompileInputs.cache
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/CoinMarket.Application.csproj.CopyComplete
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/CoinMarket.Application.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/refint/CoinMarket.Application.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/CoinMarket.Application.pdb
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/obj/Debug/net7.0/ref/CoinMarket.Application.dll

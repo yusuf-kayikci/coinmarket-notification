@@ -1,0 +1,6 @@
+{
+  "CoinMarket.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/ykayikci\/Desktop\/Projects\/CoinMarket\/src\/CoinMarket.Application",
+  "CoinMarket.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/ykayikci\/Desktop\/Projects\/CoinMarket\/src\/CoinMarket.Domain",
+  "CoinMarket.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/ykayikci\/Desktop\/Projects\/CoinMarket\/src\/CoinMarket.Infrastructure",
+  "CoinMarket.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/ykayikci\/Desktop\/Projects\/CoinMarket\/src\/CoinMarket.WebAPI"
+}

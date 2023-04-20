@@ -1,0 +1,17 @@
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/bin/Debug/net7.0/CoinMarket.Infrastructure.deps.json
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/bin/Debug/net7.0/CoinMarket.Infrastructure.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/bin/Debug/net7.0/CoinMarket.Infrastructure.pdb
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/bin/Debug/net7.0/CoinMarket.Application.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/bin/Debug/net7.0/CoinMarket.Domain.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/bin/Debug/net7.0/CoinMarket.Application.pdb
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/bin/Debug/net7.0/CoinMarket.Domain.pdb
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/CoinMarket.Infrastructure.csproj.AssemblyReference.cache
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/CoinMarket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/CoinMarket.Infrastructure.AssemblyInfoInputs.cache
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/CoinMarket.Infrastructure.AssemblyInfo.cs
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/CoinMarket.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/CoinMarket.Infrastructure.csproj.CopyComplete
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/CoinMarket.Infrastructure.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/refint/CoinMarket.Infrastructure.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/CoinMarket.Infrastructure.pdb
+/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Infrastructure/obj/Debug/net7.0/ref/CoinMarket.Infrastructure.dll

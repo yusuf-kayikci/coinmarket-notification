@@ -1,0 +1,4 @@
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/CoinMarket.Domain.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/CoinMarket.Domain.deps.json
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/CoinMarket.Domain.pdb
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/MediatR.dll

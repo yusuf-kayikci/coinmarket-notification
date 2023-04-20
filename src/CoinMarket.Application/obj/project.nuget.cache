@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/82wFbty9pkojFXlx8OUHcm1XMfRJGjWToqobD4H9STqcRk03cYIfNrErSguzBeRBLjuWPMk1SZWCmcJDQ9Ow==",
+  "success": true,
+  "projectFilePath": "/Users/ykayikci/Desktop/Projects/CoinMarket/src/CoinMarket.Application/CoinMarket.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/ykayikci/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/fluentvalidation/10.3.4/fluentvalidation.10.3.4.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/fluentvalidation.aspnetcore/10.3.4/fluentvalidation.aspnetcore.10.3.4.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.4/fluentvalidation.dependencyinjectionextensions.10.3.4.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/linqkit.core/1.2.3/linqkit.core.1.2.3.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.entityframeworkcore/7.0.0-rc.2.22472.11/microsoft.entityframeworkcore.7.0.0-rc.2.22472.11.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-rc.2.22472.11/microsoft.entityframeworkcore.abstractions.7.0.0-rc.2.22472.11.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0-rc.2.22472.11/microsoft.entityframeworkcore.analyzers.7.0.0-rc.2.22472.11.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0-rc.2.22472.3/microsoft.extensions.caching.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.extensions.caching.memory/7.0.0-rc.2.22472.3/microsoft.extensions.caching.memory.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0-rc.2.22472.3/microsoft.extensions.dependencyinjection.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0-rc.2.22472.3/microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.extensions.logging/7.0.0-rc.2.22472.3/microsoft.extensions.logging.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0-rc.2.22472.3/microsoft.extensions.logging.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.extensions.options/7.0.0-rc.2.22472.3/microsoft.extensions.options.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "/Users/ykayikci/.nuget/packages/microsoft.extensions.primitives/7.0.0-rc.2.22472.3/microsoft.extensions.primitives.7.0.0-rc.2.22472.3.nupkg.sha512"
+  ],
+  "logs": []
+}

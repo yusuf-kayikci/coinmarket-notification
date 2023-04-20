@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3BBNQhH2H28JjDlj0CbdZtWJco6g+ggdLBkLP6APZYQ=",
+  "Source": "CoinMarket.WebAPI",
+  "BasePath": "_content/CoinMarket.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

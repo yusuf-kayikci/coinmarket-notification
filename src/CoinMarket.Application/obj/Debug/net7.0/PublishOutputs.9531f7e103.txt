@@ -1,0 +1,14 @@
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/CoinMarket.Application.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/CoinMarket.Application.deps.json
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/CoinMarket.Application.pdb
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/AutoMapper.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/FluentValidation.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/FluentValidation.AspNetCore.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/FluentValidation.DependencyInjectionExtensions.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/LinqKit.Core.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/MediatR.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/Microsoft.EntityFrameworkCore.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/CoinMarket.Domain.dll
+/Users/ykayikci/Desktop/Projects/CoinMarket/CoinMarket.WebAPI/obj/rider-publish/CoinMarket.Domain.pdb
